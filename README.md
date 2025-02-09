@@ -1,6 +1,4 @@
-<h3 style="text-align: center;">
-CRUD пользователей REST API с использованием PHP
-</h3>
+## CRUD пользователей REST API с использованием PHP
 
 ### Требования
 - Docker
