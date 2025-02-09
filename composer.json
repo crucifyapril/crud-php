@@ -1,0 +1,17 @@
+{
+    "name": "claire/crud-user",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "crucifyapril",
+            "email": "sayaf3@yahoo.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
